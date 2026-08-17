@@ -1,0 +1,1 @@
+# Smart-Tender-Documentation-Summarizer
