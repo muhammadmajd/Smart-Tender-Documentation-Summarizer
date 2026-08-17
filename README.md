@@ -114,3 +114,7 @@ pytest app/test_early_pdf_utils/ -v
 ## Известные ограничения
 
 См. раздел «Известные ограничения» в [`ALGORITHM.md`](./ALGORITHM.md#6-известные-ограничения).
+
+## Лицензия
+
+[MIT](./LICENSE)
