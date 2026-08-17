@@ -1,14 +1,14 @@
 # Виртуальное окружение
 .venv/
 venv/
-.claude/
+
 # Байткод Python
 __pycache__/
 *.pyc
 
 # Секреты и локальные настройки
 .env
-CLAUDE.md
+
 # Служебные файлы macOS
 .DS_Store
 
